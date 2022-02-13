@@ -1,2 +1,0 @@
-C:\Users\oibes\source\repos\StockDev\StockDev\singlefile_win\StockDev.pdb
-C:\Users\oibes\source\repos\StockDev\StockDev\singlefile_win\StockDev.exe
